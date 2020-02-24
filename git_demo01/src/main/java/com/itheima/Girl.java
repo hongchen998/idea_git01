@@ -7,4 +7,5 @@ package com.itheima;
 public class Girl {
     private String username;
     private int age;
+    private double money;
 }
